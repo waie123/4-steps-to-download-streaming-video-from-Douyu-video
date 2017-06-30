@@ -20,7 +20,7 @@ http://vodhls1.douyucdn.cn/live/high_live-58428r0xXzzQWV0u--20170630180606/57fe3
 
 s3) 打开Chrono Download Manager，点击上方的加号，在弹出的窗口上拷贝特征url，按照Chrono Download Manager的格式，将xxx换为[011:719]，如下  
 http://vodhls1.douyucdn.cn/live/high_live-58428r0xXzzQWV0u--20170630180606/57fe3a8e89a844a3a87c655f9f270633_0000[011:719].ts?k=20a37ea216a62d369a13f1e3451c3b7c&t=5956a23a&u=76864423&ct=web&vid=910885&d=F3ACF08AA9243811F2181E9CF02C7DB9  
-<img src="https://drive.google.com/uc?id=0B-N_s7wEHZ8LZDY0MkQyZFplejQ" width="800">  
+<img src="https://drive.google.com/uc?id=0B-N_s7wEHZ8LZDY0MkQyZFplejQ" width="400">  
 
 其它的设置为默认,点击开始(start)即可。  
 
